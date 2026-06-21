@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f74e6b70141e294e9408abaa21b0a53, type: 3}
+  m_Name: Whip
+  m_EditorClassIdentifier: Assembly-CSharp::Weapons
+  weaponName: Whip
+  rarity: 0
+  ranged: 0
+  spriteSize: {x: 0, y: 0}
+  icon: {fileID: -7782944464026471179, guid: 9a402ea07c927714cb4f3bf2e68e17dc, type: 3}
+  sprite: {fileID: -7782944464026471179, guid: 9a402ea07c927714cb4f3bf2e68e17dc, type: 3}
+  damage: 15
+  hitbox: {x: 12, y: 5}
+  recoil: 50
+  cooldown: 1
+  attackSound: {fileID: 8300000, guid: 3a8e1b9be1931cb4ba655ca4f00279be, type: 3}
+  hitEffectPrefab: {fileID: 0}
